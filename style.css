@@ -1,0 +1,30 @@
+body{
+    width: 100%;
+    font-family: sans-serif;
+}
+
+.my-nav{
+    width: 100%;
+    background-color: #ffffff;
+    align-items: center;
+    display: flex;
+}
+.logo{
+    padding-left: 10px;
+}
+.logo a{
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 1.5em;
+   
+}
+.my-nav-items {
+    padding-right: 10px;
+    font-size: 1.5em;
+    color: black !important;
+    font-weight: bold;
+    justify-content: end;
+}
+.my-nav-items ul{
+    align-items: center;
+}

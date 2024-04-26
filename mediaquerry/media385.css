@@ -1,0 +1,11 @@
+@media only screen and (max-width: 385px) {
+    .logo a {
+        font-size: 1.2em;
+    }
+    .my-nav-items{
+        font-size: 1.2em;
+    }
+    .my-icon{
+        font-size: 0.8em;
+    }
+}
