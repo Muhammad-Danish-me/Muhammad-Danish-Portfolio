@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1090px) {
+    .sec-one-right{
+        width: 60%;
+    }
+    .sec-one-right img{
+        width: 100%;
+    }
+    
+}

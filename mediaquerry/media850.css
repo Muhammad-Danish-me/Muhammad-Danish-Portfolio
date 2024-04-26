@@ -1,0 +1,21 @@
+@media only screen and (max-width: 850px) {
+    .section-one{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .sec-one-left{
+        width: 70%;
+    }
+    .sec-one-left p{
+        font-size: 1.7em;
+    }
+    .sec-one-right{
+        margin-top: 20px;
+        width: 80%;
+    }
+    .sec-one-right img{
+        width: 100%;
+    }
+}
