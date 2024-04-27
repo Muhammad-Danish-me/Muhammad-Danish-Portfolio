@@ -102,31 +102,31 @@ my-icon {
   justify-content: center;
   cursor: pointer;
 }
-.sec-two-bottom .skill:hover{
-    background-color: black;
-    color: white;
+.sec-two-bottom .skill:hover {
+  background-color: black;
+  color: white;
 }
 /* section three */
-.section-three{
+.section-three {
   margin-top: 40px;
   width: 100%;
   display: flex;
   justify-content: space-around;
   padding-left: 10px;
 }
-.section-three .left{
+.section-three .left {
   width: 45%;
 }
-.section-three .left img{
+.section-three .left img {
   width: 100%;
 }
-.section-three .right{
+.section-three .right {
   width: 50%;
   margin-left: 30px;
 }
-.section-three .right h3{
+.section-three .right h3 {
   font-size: 2em;
 }
-.section-three .right h3  .bold{
+.section-three .right h3 .bold {
   font-weight: bold;
 }

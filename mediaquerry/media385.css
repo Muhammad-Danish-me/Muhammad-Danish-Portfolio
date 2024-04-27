@@ -1,20 +1,20 @@
 @media only screen and (max-width: 385px) {
-    .logo a {
-        font-size: 1.2em;
-    }
-    .my-nav-items{
-        font-size: 1.2em;
-    }
-    .my-icon{
-        font-size: 0.8em;
-    }
-    .sec-one-right{
-        width: 80%;
-    }
-    .sec-one-right img{
-        width: 100%;
-    }
-    .sec-two-bottom .skill {
-        font-size: 1em;
-    }
+  .logo a {
+    font-size: 1.2em;
+  }
+  .my-nav-items {
+    font-size: 1.2em;
+  }
+  .my-icon {
+    font-size: 0.8em;
+  }
+  .sec-one-right {
+    width: 80%;
+  }
+  .sec-one-right img {
+    width: 100%;
+  }
+  .sec-two-bottom .skill {
+    font-size: 1em;
+  }
 }

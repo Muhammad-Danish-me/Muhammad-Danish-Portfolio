@@ -1,11 +1,11 @@
-@media only screen and (max-width: 1250px){
-    .sec-one-left p {
-        font-size: 2em;
-    }
-    .section-three .left{
-        width: 70%;
-      }
-      .section-three .left img{
-        width: 100%;
-      }
+@media only screen and (max-width: 1250px) {
+  .sec-one-left p {
+    font-size: 2em;
+  }
+  .section-three .left {
+    width: 70%;
+  }
+  .section-three .left img {
+    width: 100%;
+  }
 }

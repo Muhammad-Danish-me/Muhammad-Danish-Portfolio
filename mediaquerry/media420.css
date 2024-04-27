@@ -1,14 +1,14 @@
-@media only screen and (max-width: 420px){
-    .sec-one-left p{
-        font-size: 1.5em;
-    }
-    .sec-one-left img{
-       width: 35px;
-    }
-    .sec-one-right{
-        width: 100%;
-    }
-    .sec-one-right img{
-        width: 100%;
-    }
+@media only screen and (max-width: 420px) {
+  .sec-one-left p {
+    font-size: 1.5em;
+  }
+  .sec-one-left img {
+    width: 35px;
+  }
+  .sec-one-right {
+    width: 100%;
+  }
+  .sec-one-right img {
+    width: 100%;
+  }
 }

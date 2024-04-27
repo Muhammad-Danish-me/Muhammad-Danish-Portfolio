@@ -1,17 +1,15 @@
 @media only screen and (max-width: 1090px) {
-    .sec-one-right{
-        width: 60%;
-    }
-    .sec-one-right img{
-        width: 100%;
-    }
-    .section-three .left{
-        width: 50%;
-        
-      }
-      .section-three .left img{
-        width: 100%;
-        height: 100%;
-        
-      }
+  .sec-one-right {
+    width: 60%;
+  }
+  .sec-one-right img {
+    width: 100%;
+  }
+  .section-three .left {
+    width: 50%;
+  }
+  .section-three .left img {
+    width: 100%;
+    height: 100%;
+  }
 }
