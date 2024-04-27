@@ -23,8 +23,24 @@
         font-size: 1.7em;
         width: 220px; 
         margin-top: 20px;
-        margin-left: 10px;
-        
+        margin-left: 10px;   
+    }
+    .section-three {
+        width: 100%;
+        flex-direction: column;
+    }
+    .section-three .left{
+        width: 90%;
+        padding: 10px;
+        align-items: center;
+        justify-content: left;
+    }
+    .section-three .right{
+        margin-top: 40px;
+        width: 85%;
+    }
+    .section-three .right p{
+        margin-top: 10px;
     }
 
 }
