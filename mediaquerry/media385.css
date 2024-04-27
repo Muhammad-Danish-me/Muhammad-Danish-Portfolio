@@ -8,4 +8,10 @@
     .my-icon{
         font-size: 0.8em;
     }
+    .sec-one-right{
+        width: 80%;
+    }
+    .sec-one-right img{
+        width: 100%;
+    }
 }
