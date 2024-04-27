@@ -100,4 +100,9 @@ my-icon {
   padding: 10px;
   width: 250px;
   justify-content: center;
+  cursor: pointer;
+}
+.sec-two-bottom .skill:hover{
+    background-color: black;
+    color: white;
 }
