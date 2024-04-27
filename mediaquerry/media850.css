@@ -19,4 +19,11 @@
     .sec-one-right img{
         width: 100%;
     }
+    .sec-two-bottom .skill {
+        font-size: 1.7em;
+        width: 220px; 
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
 }
