@@ -42,4 +42,16 @@
   .section-three .right p {
     margin-top: 10px;
   }
+  .sec-four-bottom{
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+  }
+  .sec-four-bottom img{
+    width: 100%;
+    height: 100%;
+  }
+  .sec-four-bottom .one{
+    width: 65%;
+  }
 }

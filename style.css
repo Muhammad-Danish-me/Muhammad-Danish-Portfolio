@@ -130,3 +130,49 @@ my-icon {
 .section-three .right h3 .bold {
   font-weight: bold;
 }
+/* section four */
+
+.section-four {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  margin-top: 70px;
+  background-color: black;
+  color: white;
+  padding-top: 30px;
+}
+.sec-four-top h3{
+  text-align: center;
+  font-size: 2.2em;
+}
+.sec-four-top h3 .bold{
+  font-weight: bold;
+}
+.sec-four-bottom {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.sec-four-bottom img{
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 10px;
+  width: 100%;
+  height: 200px;
+  
+}
+.sec-four-bottom .one{
+  width: 25%;
+  padding: 10px;
+
+}
+.sec-four-bottom p {
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+.sec-four-bottom a{
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
