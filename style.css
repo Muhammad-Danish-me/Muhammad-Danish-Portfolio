@@ -141,11 +141,11 @@ my-icon {
   color: white;
   padding-top: 30px;
 }
-.sec-four-top h3{
+.sec-four-top h3 {
   text-align: center;
   font-size: 2.2em;
 }
-.sec-four-top h3 .bold{
+.sec-four-top h3 .bold {
   font-weight: bold;
 }
 .sec-four-bottom {
@@ -153,26 +153,89 @@ my-icon {
   justify-content: space-around;
   margin-top: 50px;
 }
-.sec-four-bottom img{
+.sec-four-bottom img {
   border: 2px solid black;
   border-radius: 25px;
   padding: 10px;
   width: 100%;
   height: 200px;
-  
 }
-.sec-four-bottom .one{
+.sec-four-bottom .one {
   width: 25%;
   padding: 10px;
-
 }
 .sec-four-bottom p {
   text-align: center;
   font-size: 1.8em;
   font-weight: bold;
 }
-.sec-four-bottom a{
+.sec-four-bottom a {
   text-decoration: none;
   color: white;
   cursor: pointer;
+}
+/* section five */
+.section-five {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.section-five .left {
+  padding-left: 10px;
+  width: 50%;
+}
+.section-five .left input {
+  width: 60%;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 35px;
+  padding: 10px;
+}
+.section-five .right {
+  width: 40%;
+  padding-right: 10px;
+  margin-right: 10px;
+}
+.section-five .left textarea {
+  width: 60%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.section-five .right h3{
+  font-size: 2.3em;
+  font-weight: bold;
+  line-height: 60px;
+}
+.section-five .right  p{
+  line-height: 30px;
+}
+.section-five .right  h4{
+  font-size: 1.4em;
+  font-weight: bold;
+}
+.section-five .left button{
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 5px;
+}
+.section-five .left img{
+  width: 40px;
+  margin-left: 10px;
+}
+.footer{
+  margin-top: 20px;
+  width: 100%;
+  height: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+
 }
