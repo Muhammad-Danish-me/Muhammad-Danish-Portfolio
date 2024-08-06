@@ -240,3 +240,10 @@ my-icon {
   font-weight: bold;
   font-size: 1.2em;
 }
+.allProjects {
+  font-size: 2em;
+  text-decoration: underline;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
